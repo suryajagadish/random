@@ -2,7 +2,10 @@ surya 1
 surya 2
 surya 3
 
+purushoth 1
+purushoth 2
+purushoth 3
+
 surya 4
 surya 5
-
 surya 6
